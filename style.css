@@ -168,4 +168,7 @@ picture {
   .header-socials {
     align-self: flex-end;
   }
+  .footer-picture img {
+    width: 100%;
+  }
 }
